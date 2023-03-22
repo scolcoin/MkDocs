@@ -18,7 +18,7 @@ Genesis Link for mainnet:  <https://github.com/scolcoin/Scolcoin-Chain/blob/main
 
 * **chainId**
 
-**5177** for main-net and **49120** for test-net.  To compatible with third part service that already supports Ethereum, we’d better not use network id that Ethereum ecology that already used.  The network id of test-net should be distinct from main-net.
+**65450** for main-net and **6552** for test-net.  To compatible with third part service that already supports Ethereum, we’d better not use network id that Ethereum ecology that already used.  The network id of test-net should be distinct from main-net.
 
 
 * **period**
