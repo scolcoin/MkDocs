@@ -30,12 +30,12 @@ network for the assets
 
 ScolCoin Chain, SCOL boasts smart contract functionality and compatibility with the Ethereum Virtual Machine (EVM). The design goal here was to leave the high throughput of ScolCoin Chain intact while introducing smart contracts into its ecosystem.
 
-Because SCOL is EVM-compatible, it launched with support for the rich universe of [Ethereum](https://academy.scolcoin.com/en/articles/what-is-ethereum) tools and DApps. In theory, this makes it easy for developers to port their projects over from Ethereum. For users, it means that applications like [MetaMask](smart-chain/wallet/metamask.md) can be easily configured to work with TC. Seriously – it’s just a matter of tweaking a couple of settings. Check out Use MetaMask for ScolCoin Chain to get started.
+Because SCOL is EVM-compatible, it launched with support for the rich universe of Ethereum tools and DApps. In theory, this makes it easy for developers to port their projects over from Ethereum. For users, it means that applications like [MetaMask](smart-chain/wallet/metamask.md) can be easily configured to work with TC. Seriously – it’s just a matter of tweaking a couple of settings. Check out Use MetaMask for ScolCoin Chain to get started.
 
 You can:
 
 - Send and receive SCOL
-- Explore the transaction history and blocks on the chain, via [SCOL SCAN](https://scolcoin.com), API
+- Explore the transaction history and blocks on the chain, via [SCOL SCAN](https://explorer.scolcoin.com/), API
 and node RPC interfaces.
 
 **Developers** can also:
