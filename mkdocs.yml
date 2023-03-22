@@ -28,7 +28,7 @@ nav:
     - Concepts:
       - Consensus: smart-chain/guides/concepts/consensus.md
       - Genesis File: smart-chain/guides/concepts/genesis.md
-    - Ecosystem: https://github.com/ 
+    - Ecosystem: https://github.com/scolcoin 
     - ScolCoin Chain Mainnet Explorer: https://explorer.scolcoin.com/
     - ScolCoin Chain Testnet Explorer: https://testnet-explorer.scolcoin.com/
     - Wallet: smart-chain/wallet.md
@@ -39,7 +39,7 @@ nav:
       - Remix : https://remix.ethereum.org/
       - Web3JS: https://web3js.readthedocs.io/en/v1.2.11/
       - Truffle: https://www.trufflesuite.com/docs/teams/quickstart
-    - Ecosystem: https://github.com
+    - Ecosystem: https://github.com/scolcoin
     - Deploy:
       - Remix: smart-chain/developer/deploy/remix.md
       - Truffle: smart-chain/developer/deploy/truffle.md
