@@ -31,7 +31,7 @@ There are two ways of creating an account on ScolCoin Chain: creating a key in a
 
 ### Web Wallet
 
-+ You can create a key via [web wallet](https://testnet-explorer.scolcoin.com/create)
++ You can create a key via [web wallet](https://testnet-explorer.scolcoin.com)
 
 Follow the instructions and set your password (password is used to unlock the keystore file that you will get here):
 
@@ -41,7 +41,7 @@ Then click `Download Keystore File` and you will get a keystore file and be dire
 
 ![create key](./assets/create_key_2.png)
 
-+ You can restore your key [here](https://testnet-explorer.scolcoin.com/unlock)
++ You can restore your key [here](https://testnet-explorer.scolcoin.com)
 
 Choose `Mnenomic Phrase`, paste the mnemonic you get above and set your session password:
 
@@ -122,4 +122,4 @@ $  ./eth-cli account bnc1wwgakqy32m7vdnlf00pctf9hnaak37eh7wkmqa --trust-node --c
 
 ## Get Testnet SCOL
 
-You can get test SCOL by following [this guide](https://www.shree.vision/tutorials/shree-dex-funding-your-testnet-account).
+You can get test SCOL by following [this guide](https://scolcoin.com/).
