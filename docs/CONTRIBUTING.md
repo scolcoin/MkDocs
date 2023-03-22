@@ -1,13 +1,13 @@
 
 # How to Contribute to ScolCoin Chain Documentations Project
 
-Your contributions to the [ScolCoin Chain](https://www.scolcoin.com/) will help build a fast and secure decentralized digital asset exchange.
+Your contributions to the [ScolCoin Chain](https://scolcoin.com/) will help build a fast and secure decentralized digital asset exchange.
 
 We want to make it as easy as possible to contribute changes that help the ScolCoin Chain grow and thrive. There are a few guidelines that we ask contributors to follow so that we can merge your changes quickly.
 
 ## Getting Started
 
-* Make sure you have a [GitHub account](https://github.com/signup/free).
+* Make sure you have a [GitHub account](https://github.com/scolcoin/MkDocs).
 * Create a GitHub issue for your contribution, assuming one does not already exist.
   * Clearly describe the issue including steps to reproduce if it is a bug.
 * Fork the repository on GitHub.
