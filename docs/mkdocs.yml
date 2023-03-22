@@ -51,7 +51,7 @@ nav:
       - HardHat Verify: smart-chain/developer/deploy/hardhat-verify.md
       - Verify Proxy Contract: smart-chain/developer/upgrade/verify-proxy.md
     - Tools:
-      - Faucet: https://testnet-explorer.scolcoin.com/faucet-smart
+      - Faucet: https://faucet.scolcoin.com/
       - Gas Price: https://scolcoin.com/chart/gasprice
       - Wallet Provider for DApps: smart-chain/wallet/arkane-developer.md
     - SRC20 Tokens:
@@ -78,7 +78,7 @@ nav:
       - Verify Contract on scolcoin.com: smart-chain/developer/deploy/verify.md
       - Local SCOL  Network: smart-chain/developer/deploy/local.md
       - Proxy Contract: smart-chain/developer/upgrade/proxy.md
-    - BUIDL Program: https://www.scolcoin.com/en/blog/421499824684900972/Bridging-DeFi-and-CeFi-Introducing-a-$100M-Support-Fund-for-DeFi-Projects-on-SCOL-Smart-Chain
+    - BUIDL Program: https://medium.com/@scolcoin_337
   - Wallets:
     - ScolCoin Chain Wallet Support: smart-chain/wallet.md
     - ScolCoin Chain Wallet Tutorial:
@@ -87,13 +87,13 @@ nav:
       - Staking with extension wallet: smart-chain/wallet/staking.md
       - How to install SCOL Extension Wallet Manually: smart-chain/wallet/manual.md
       - How to use ezDeFi Wallet for ScolCoin Chain: smart-chain/wallet/ezdefi.md
-  - ScolCoin Chain Explorer: https://scolcoin.com
-  - ScolCoin Chain Forum: https://community.scolcoin.com/
-  - ScolCoin Chain Faucet: https://testnet-explorer.scolcoin.com/faucet
-  - The ScolCoin Chain Developer Group : https://t.me/yourtelegram
-  - The ScolCoin Chain Telegram Group : https://t.me/yourtelegram
-  - Twitter: https://twitter.com/scolcoin_exchange
-  - Telegram Announcement Channel English: https://t.me/yourtelegram/ScolCoinNews
+  - ScolCoin Chain Explorer: https://explorer.scolcoin.com/
+  - ScolCoin Chain Forum: https://forum.scolcoin.com/
+  - ScolCoin Chain Faucet: https://faucet.scolcoin.com/
+  - The ScolCoin Chain Developer Group : https://t.me/scolcoin_foro
+  - The ScolCoin Chain Telegram Group : https://t.me/scolcoin
+  - Twitter: https://twitter.com/scolcoin
+  - Telegram Announcement Channel English: https://t.me/ScolCoinNews
   - FAQ:
     - ScolCoin Chain FAQ:
       - General:
