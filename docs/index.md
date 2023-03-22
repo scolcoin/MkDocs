@@ -55,7 +55,7 @@ Want to develop on **ScolCoin Chain**? First, read through the [FAQ](faq/nc/gene
 
 ### SRC20 Asset
 
-A token protocol on SCOL which is compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20). It extends ERC20 and contains more interfaces, such as `getOwner` and `decimals`. Read the full proposal here: <https://github.com/githubusername/githubrepo>
+A token protocol on SCOL which is compatible with [ERC20](https://eips.ethereum.org/EIPS/eip-20). It extends ERC20 and contains more interfaces, such as `getOwner` and `decimals`. Read the full proposal here: <https://github.com/scolcoin/ERC20>
 
 - [Issue SRC20](smart-chain/developer/issue-SRC20.md)
 - [Wallet](smart-chain/wallet.md)
