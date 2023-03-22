@@ -8,7 +8,7 @@ theme:
   name: material
 
 repo_name: shree
-repo_url:https://github.com/githubusername/githubrepo
+repo_url: https://github.com/scolcoin/MkDocs
 
 nav:
   - Home: index.md
@@ -20,7 +20,7 @@ nav:
       - Genesis File: smart-chain/guides/concepts/genesis.md
       - System Contract: smart-chain/guides/concepts/system-contract.md
       - Governance: smart-chain/guides/concepts/nc-gov.md
-    - Ecosystem:https://github.com/githubusername/githubrepo/nc-ecosystem
+    - Ecosystem: https://github.com/scolcoin/
     - Gnosis: smart-chain/developer/gnosis.md
     - Staking:
       - Validator:
