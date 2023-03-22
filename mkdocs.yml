@@ -1,0 +1,80 @@
+site_name: ScolCoin Chain Docs
+site_description: ScolCoin Chain Technology Documentation
+site_author: ScolCoin Chain Community
+site_url: https://docs.scolcoin.com
+use_directory_urls: false
+theme:
+  name: material
+  logo: assets/logo.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    primary: amber
+    scheme: slate
+    accent: yellow 
+  feature:
+    tabs: true
+extra_css:
+       - stylesheets/dark_theme.css
+       - stylesheets/codehilite.css  
+repo_name: ScolCoin
+repo_url: https://github.com/
+
+nav:
+  - Home: index.md
+  - ScolCoin Chain:
+    - Introduction: smart-chain/guides/nc-intro.md
+    - Concepts:
+      - Consensus: smart-chain/guides/concepts/consensus.md
+      - Genesis File: smart-chain/guides/concepts/genesis.md
+    - Ecosystem: https://github.com/ 
+    - ScolCoin Chain Mainnet Explorer: https://explorer.scolcoin.com/
+    - ScolCoin Chain Testnet Explorer: https://testnet-explorer.scolcoin.com/
+    - Wallet: smart-chain/wallet.md
+  - ScolCoin Chain Developers:
+    - General:
+      - Create Wallet: smart-chain/developer/create-wallet.md
+      - Smart Contract: https://solidity.readthedocs.io/en/v0.7.1/
+      - Remix : https://remix.ethereum.org/
+      - Web3JS: https://web3js.readthedocs.io/en/v1.2.11/
+      - Truffle: https://www.trufflesuite.com/docs/teams/quickstart
+    - Ecosystem: https://github.com
+    - Deploy:
+      - Remix: smart-chain/developer/deploy/remix.md
+      - Truffle: smart-chain/developer/deploy/truffle.md
+      - HardHat: smart-chain/developer/deploy/hardhat.md
+    - Tools:   
+      - Wallet Provider for DApps: smart-chain/wallet/arkane-developer.md
+    - SCR20 Tokens:
+      - Introduction: smart-chain/developer/SCR20.md
+      - Issue Token: smart-chain/developer/issue-SCR20.md
+    - Blockchain Details:
+      - ScolCoin Chain Fullnode: smart-chain/developer/fullnode.md      
+      - RPC: smart-chain/developer/rpc.md
+    - Tutorial:
+      - Deploy NFT:  smart-chain/developer/SCR721.md      
+      - Local Brise Network: smart-chain/developer/deploy/local.md
+  - Wallets:
+    - ScolCoin Chain Wallet Support: smart-chain/wallet.md
+  - ScolCoin Chain Explorer: https://explorer.scolcoin.com
+  - ScolCoin Chain Faucet: https://faucet.scolcoin.com
+  - The ScolCoin Chain Telegram Group : https://t.me
+  - Twitter: https://twitter.com  
+  - FAQ:
+    - ScolCoin Chain FAQ:
+      - General:
+        - Info: faq/nc/general.md
+        - ScolCoin Chain: faq/nc/nc.md
+        - Ecosystem: faq/nc/eco.md
+      - Token:
+        - Intro: faq/nc/token.md
+        - TC20: faq/nc/src20.md
+    - Contributing: CONTRIBUTING.md
+
+
+markdown_extensions:
+    - admonition
+    - pymdownx.arithmatex
+    - pymdownx.superfences
+    - codehilite
