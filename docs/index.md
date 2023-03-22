@@ -63,10 +63,10 @@ A token protocol on SCOL which is compatible with [ERC20](https://eips.ethereum.
 ## SCOL (and Other Coins) MainNet Switch
 
 ScolCoin (SCOL) was an ERC20 token on the Ethereum network.<br/>
-After the launch of ScolCoin Chain, ScolCoin (SCOL) is being converted into native SCOL tokens on the main network via the exchange platform at [scolcoin.com](https://www.scolcoin.com), a pragmatic and efficient way to perform the initial token swap.
+After the launch of ScolCoin Chain, ScolCoin (SCOL) is being converted into native SCOL tokens on the main network via the exchange platform at [scolcoin.com](https://scolcoin.com), a pragmatic and efficient way to perform the initial token swap.
 
 ScolCoin Chain is ready for other projects to migrate their tokens to take advantage of performant transactions with more liquidity options and native marketplace features.<br/>
-More information about how projects can set themselves up for this (via [scolcoin.com](https://www.scolcoin.com) or partners) will come soon.
+More information about how projects can set themselves up for this (via [scolcoin.com](https://scolcoin.com) or partners) will come soon.
 
 
 ## Technology Details
