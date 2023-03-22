@@ -17,12 +17,12 @@ There is also a [web wallet](https://testnet-explorer.scolcoin.com/en/) that can
 
 # How to get Testnet Fund
 
-> Note: The previous ScolCoin Chain Testnet [Faucet](https://www.scolcoin.com/en/dex/testnet/address) is retired at 2020/08/11 at 1:00 PM (UTC). The testnet faucet has migrated to this page: https://testnet-explorer.scolcoin.com/faucet-smart
+> Note: The previous ScolCoin Chain Testnet [Faucet](https://www.scolcoin.com/en/dex/testnet/address) is retired at 2020/08/11 at 1:00 PM (UTC). The testnet faucet has migrated to this page: https://faucet.scolcoin.com/
 
 **Steps to claim testnet SCOL:**
 
 1. Create a new Wallet of ScolCoin Chain testnet with [MetaMask or MathWallet](https://docs.scolcoin.com/wallets/nc-wallets.html)
-2. Get Testnet Fund: https://testnet-explorer.scolcoin.com/faucet-smart
+2. Get Testnet Fund: https://faucet.scolcoin.com/
 
 To request funds, please make a tweet with your ScolCoin Chain address pasted into the contents. Then, copy-paste the tweets URL!
 **SCOL** will be sent to your SCOL wallet right away.
