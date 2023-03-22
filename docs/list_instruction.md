@@ -20,7 +20,7 @@ Please refer to this [governance doc](governance.md) to learn about how to creat
 
 *Community Thread Proposal (Recommended)*
 
-It is recommended that Token Issuers first create a thread under the “Token Issuance & Listings” category in the ScolCoin Chain Community Forum (https://community.scolcoin.com/). The whole guideline is [here](https://community.scolcoin.com/topic/18/guidelines-on-how-to-list-your-token-on-shree-dex)
+It is recommended that Token Issuers first create a thread under the “Token Issuance & Listings” category in the ScolCoin Chain Community Forum (https://forum.scolcoin.com/). The whole guideline is [here](https://forum.scolcoin.com/)
 
 ## 3. Send List Transaction
 
