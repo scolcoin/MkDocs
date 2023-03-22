@@ -19,7 +19,7 @@ This dapp implements a "Hello World" style application that echoes a message pas
 
 ## The smart contract
 
-- Create new contract SRC20Token.sol and copy contract code from the bep20 token template [here](../SRC20Token.template)
+- Create new contract SRC20Token.sol and copy contract code from the bep20 token template [here](https://docs.scolcoin.com/smart-chain/developer/SCR20.html)
 
 - Modify “name”, “symbol”, “decimals” and “totalSupply” according to your requirements.
 
