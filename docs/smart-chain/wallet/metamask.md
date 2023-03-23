@@ -70,7 +70,7 @@ Congratulations! you have create your MetaMask account!
 Click on your address for copy
 <img src="/assets/metamask/9.png" alt="img" style="zoom:33%;" />
 
-4. Go to faucet page: https://testnet-explorer.scolcoin.com/faucet-smart, then paste your address in the box and click on “Give me SCOL”
+4. Go to faucet page: https://faucet.scolcoin.com/, then paste your address in the box and click on “Give me SCOL”
 
 !!! Tip
     Please note that you can only claim once every minute
